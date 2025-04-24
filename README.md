@@ -4,12 +4,11 @@ Hi 👋 My name is Nelly Makena
 Full Stack Web Developer || Automation || Exploring Web 3
 ---------------------------------------------------------
 
-👋 Hi there! I'm Nelly Makena I'm a full-stack web developer from Kenya with a strong skill set in Python and JavaScript. I’m passionate about building functional, efficient applications and love diving into both the back and front ends to create seamless user experiences. 💻 What I Do: Backend Development: Skilled in Django and Flask for developing scalable, secure applications. Frontend Skills: Proficient in HTML, CSS, and JavaScript, with a focus on custom, user-friendly design. Automation & Web Scraping: Experience with Selenium, BeautifulSoup, and PyAutoGUI for data gathering and automation tasks. Data Handling: Knowledgeable in data cleaning, data visualization, and using data-driven insights to guide development. Database Management: Building and optimizing databases to enhance data accessibility and organization. 🌱 What I’m Working On: Eventia - A software platform for event listings and bookings, designed to connect users with event hosts and service providers. AutoMax - A car marketplace software for users to explore and list cars, aimed at making the car buying and selling experience more efficient. 🚀 Ambitions: Actively exploring Web3 technologies with the goal of transitioning into this space to contribute to decentralized applications and blockchain solutions. Dedicated to building innovative tech solutions that meet unique needs in Kenya and Africa. 📫 Let's Connect: Check out my projects and reach out if you’re interested in collaborating or learning together! Always open to connecting with fellow tech enthusiasts.
-
+Nelly Makena is a full-stack developer from Kenya skilled in Python, JavaScript, and Django. She’s building platforms like FitUs and AutoMax while exploring Web3 and blockchain. Passionate about creating tech solutions for Kenya and Africa.
 * 🌍  I'm based in Nairobi Kenya
 * ✉️  You can contact me at [nellysolomonmakena3@gmail.com](mailto:nellysolomonmakena3@gmail.com)
 * 🤝  I'm open to collaborating on intresting full stack projects
-* ⚡  Blockchain || Web 3 || Sales $ Marketing enthusiast
+* ⚡  Blockchain || Web 3 || Backend development enthusiast 
 
 ### Skills
 
