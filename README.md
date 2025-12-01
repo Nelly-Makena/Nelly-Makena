@@ -4,7 +4,7 @@ Hi 👋 My name is Nelly Makena
 Full Stack Web Developer || Automation || Exploring Web 3
 ---------------------------------------------------------
 
-Nelly Makena is a full-stack developer from Kenya skilled in Python, JavaScript, and Django. She’s building platforms like FitUs and AutoMax while exploring Web3 and blockchain. Passionate about creating tech solutions for Kenya and Africa.
+Nelly Makena is a full-stack developer from Kenya skilled in Python,Django, DRF and  JavaScript (React) . She’s building platforms like FitUs and AutoMax while exploring Web3 and blockchain. Passionate about creating tech solutions for Kenya and Africa.
 * 🌍  I'm based in Nairobi Kenya
 * ✉️  You can contact me at [nellysolomonmakena3@gmail.com](mailto:nellysolomonmakena3@gmail.com)
 * 🤝  I'm open to collaborating on intresting full stack projects
